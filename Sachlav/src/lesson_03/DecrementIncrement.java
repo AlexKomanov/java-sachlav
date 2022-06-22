@@ -16,6 +16,5 @@ public class DecrementIncrement {
         System.out.println("a = " + a);
         ++a;
         System.out.println("a = " + a);
-
     }
 }
