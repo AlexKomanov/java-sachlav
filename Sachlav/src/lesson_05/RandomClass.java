@@ -1,6 +1,7 @@
 package lesson_05;
 
 import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class RandomClass {
     public static void main(String[] args) {
